@@ -2,7 +2,7 @@
 
 Este proyecto esta hecho en NetBeans con Framework de Quarkus.
 Se utilizo Oracle para Base de Datos.
-
+-------------------------------------------------------------
 Para realiza la conexion a base de datos las credenciales son 
 usuario: DB_Anthony
 password: system
